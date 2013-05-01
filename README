@@ -1,0 +1,2 @@
+This project is for solving saddle point matrices that arised from natural sciences such as contraint problems, lagrangians. We will implement several efficient solvers for sparse saddle point matrices. 
+
